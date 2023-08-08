@@ -16,7 +16,7 @@ Lastly, the user must also install mongoose using `npm i mongoose` for the Objec
 
 ## Usage
 
-Deployed application will be linked here!
+Deployed application will be linked here! I promise
 
 ## Credits
 
