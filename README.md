@@ -16,7 +16,7 @@ Lastly, the user must also install mongoose using `npm i mongoose` for the Objec
 
 ## Usage
 
-Deployed application will be linked here! I promise
+Deployed application can be found hosted [here](https://text-editor-pwa-tjw-22be4eecad79.herokuapp.com/) on Heroku! 
 
 ## Credits
 
